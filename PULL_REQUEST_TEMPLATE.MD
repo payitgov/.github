@@ -1,4 +1,4 @@
-- [ ] I have verified that this is not a new project. If it is, I have contacted the InfoSec team and completed their processes to gain proper approval from the following InfoSec team members:
+- [ ] I have verified that this is not a new project. If it is a new project (new service, new application, new repository), I have contacted the InfoSec team and completed their processes to gain proper approval from the following InfoSec team members:
 
 - [ ] I have verified that the backout plan for this change conforms to our standard engineering backout plan located [here](https://payitdev.atlassian.net/wiki/spaces/SEC/pages/2833416205/Standard+Change+Control+Back+Out+Plan). If it does not, I have documented an alternative backout plan below:
 
