@@ -7,7 +7,7 @@
         - Good pull request title: "[JIRA-123] add index on `customerId` field"
         - Bad pull request title: "fix query" -->
 
-<details>
+<details open>
 <summary><h4>Compliance Checklist</h4></summary>
 
 - [ ] I have verified that this is not a new project. If it is a new project (new service, new application, new repository), I have contacted the InfoSec team and completed their processes to gain proper approval from the following InfoSec team members:
