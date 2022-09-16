@@ -20,7 +20,7 @@
 
 - [ ] I have verified that this change will not result in downtime. If it will, I have noted the impact below:
 
-- [ ] I have verified that no new dependencies were introduced. If they were, I have vetted them below:
+- [ ] I have verified that no new dependencies (excluding non production configurations such as test) were introduced. If they were, I have vetted them below:
 
 - [ ] I have verified that all applicable tests were updated to ensure complete test coverage of any new or modified code.
 
