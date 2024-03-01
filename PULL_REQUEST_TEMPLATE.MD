@@ -7,6 +7,7 @@
         - Good pull request title: "[JIRA-123] add index on `customerId` field"
         - Bad pull request title: "fix query" -->
 
+<!-- payit-compliance-checklist-start -->
 <details open>
 <summary><h4>Compliance Checklist</h4></summary>
 
@@ -26,3 +27,4 @@
 
 - [ ] I have verified that any relevant documentation such as the README is still up to date and not impacted by my changes. If documentation needs updating for accuracy, I have done so.
 </details>
+<!-- payit-compliance-checklist-end -->

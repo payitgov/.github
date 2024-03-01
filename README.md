@@ -1,3 +1,5 @@
 # .github
 
-A place for shared workflow actions and PR templates... amongst other things.
+A place for organization-wide PR templates and other resources.
+
+Note: this repository is **public to the internet**.
